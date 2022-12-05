@@ -1,3 +1,4 @@
-# snakeGame
+snakeGame
 
-## Basic snake game using Javascript
+basic snake game code using Javascript to build  [SnaketheGame](snakethegame.link).
+
